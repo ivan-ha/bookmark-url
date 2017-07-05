@@ -3,6 +3,7 @@
 - [Master the JavaScript Interview: What is Functional Programming?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0#.ue235gux4)
 - [JavaScript Scoping and Hoisting](http://www.adequatelygood.com/JavaScript-Scoping-and-Hoisting.html)
 - [The State of JS](http://stateofjs.com)
+- [Async console.log() on Object](https://stackoverflow.com/questions/23429203/weird-behavior-with-objects-console-log)
 
 ## Frontend Development
 - [Front-End Developer Handbook 2017](https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details)
