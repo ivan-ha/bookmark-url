@@ -41,3 +41,4 @@
 - [How I made a SaaS webservice earning $1000 monthly profit](https://hackernoon.com/how-i-made-a-saas-webservice-earning-1000-monthly-profit-6d2b782b95c8#.b0uxfka24)
 - [Top mentioned books on stackoverflow.com](http://www.dev-books.com)
 - [Web Development: A Coggle Diagram about No Matter Which Route You Take](https://coggle.it/diagram/Vz9LvW8byvN0I38x)
+- [iTerm2+ZSH+Cobalt2](https://www.smashingmagazine.com/2015/07/become-command-line-power-user-oh-my-zsh-z/)
