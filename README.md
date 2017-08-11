@@ -14,6 +14,7 @@
 - [Cartoon guide to Flux](https://code-cartoons.com/a-cartoon-guide-to-flux-6157355ab207#.sajki8ld7)
 - [Cartoon guide to Redux](https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6#.a2kzelgfo)
 - [React lifecycle diagram](https://staminaloops.github.io/undefinedisnotafunction/images/react-lifecycle.jpg)
+- [Render anti pattern](https://medium.com/@esamatti/react-js-pure-render-performance-anti-pattern-fb88c101332f)
 
 
 ## Code Practice
