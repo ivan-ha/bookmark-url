@@ -26,6 +26,7 @@
 
 ## Mobile
 - [Debugging iOS App's HTTP(S) Traffic](https://cjwirth.com/2015/04/15/debugging-https-traffic/)
+- [Changes to location tracking in iOS 11](https://mackuba.eu/2017/07/13/changes-to-location-tracking-in-ios-11/)
 
 ## CSS
 - Flexbox
