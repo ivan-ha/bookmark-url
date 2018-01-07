@@ -16,6 +16,9 @@
 - [React lifecycle diagram](https://staminaloops.github.io/undefinedisnotafunction/images/react-lifecycle.jpg)
 - [Render anti pattern](https://medium.com/@esamatti/react-js-pure-render-performance-anti-pattern-fb88c101332f)
 
+## Hardware
+- [Time-travelling exploits with Meltdown](https://medium.com/@pwnallthethings/time-travelling-exploits-with-meltdown-1189548f1e1d)
+- [Spectre and Meltdown Explained by Raspberry Pi](https://www.raspberrypi.org/blog/why-raspberry-pi-isnt-vulnerable-to-spectre-or-meltdown/)
 
 ## Code Practice
 - [The Joel Test: 12 Steps to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
