@@ -4,6 +4,7 @@
 - [JavaScript Scoping and Hoisting](http://www.adequatelygood.com/JavaScript-Scoping-and-Hoisting.html)
 - [The State of JS](http://stateofjs.com)
 - [Async console.log() on Object](https://stackoverflow.com/questions/23429203/weird-behavior-with-objects-console-log)
+- [JS Module System - CommonJS vs AMD vs ES2015](https://auth0.com/blog/javascript-module-systems-showdown/)
 
 ## Frontend Development
 - [Front-End Developer Handbook 2017](https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details)
