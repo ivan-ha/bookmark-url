@@ -16,6 +16,7 @@
 - [Cartoon guide to Redux](https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6#.a2kzelgfo)
 - [React lifecycle diagram](https://staminaloops.github.io/undefinedisnotafunction/images/react-lifecycle.jpg)
 - [Render anti pattern](https://medium.com/@esamatti/react-js-pure-render-performance-anti-pattern-fb88c101332f)
+- [React Navigation: do not go back repeatedly, use reset!](https://blog.bam.tech/developper-news/react-navigation-do-not-go-back-repeatedly-use-reset)
 
 ## Hardware
 - [Time-travelling exploits with Meltdown](https://medium.com/@pwnallthethings/time-travelling-exploits-with-meltdown-1189548f1e1d)
